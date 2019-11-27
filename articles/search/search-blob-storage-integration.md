@@ -35,7 +35,7 @@ Azure Blob Storage 内の単一コンテナーにあるご利用の BLOB が入�
 
 Azure Cognitive Search と Azure Blob Storage が必要です。 BLOB ストレージ内には、ソース コンテンツを提供するコンテナーが必要です。
 
-ご自分のストレージ アカウント ポータル ページで直接開始できます。 左側のナビゲーション ページの **[Blob service]** で、 **[Azure Cognitive Search の追加]** をクリックして新しいサービスを作成するか、既存のサービスを選択します。 
+ご自分のストレージ アカウント ポータル ページで直接開始できます。 左側のナビゲーション ページの **[Blob service]** で、 **[Azure Search の追加]** をクリックして新しいサービスを作成するか、既存のサービスを選択します。 
 
 ご利用のストレージ アカウントに Azure Cognitive Search を追加したら、標準的なプロセスに従って BLOB データのインデックスを作成できます。 最初の導入を簡単に行うには Azure Cognitive Search の **[データのインポート]** ウィザードをお勧めします。または、Postman などのツールを使用して REST API を呼び出すこともできます。 このチュートリアルでは、Postman で REST API を呼び出す手順について説明します。[Azure Cognitive Search での半構造化されたデータ (JSON BLOB) のインデックス作成と検索](search-semi-structured-data.md)。 
 
